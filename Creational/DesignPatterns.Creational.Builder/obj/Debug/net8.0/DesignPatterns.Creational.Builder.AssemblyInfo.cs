@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesignPatterns.Creational.Builder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e84f73504d18fa48ce77458d47bd1fd9d6bd9eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesignPatterns.Creational.Builder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesignPatterns.Creational.Builder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

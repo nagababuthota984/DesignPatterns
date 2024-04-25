@@ -11,8 +11,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{3DC5C8F2-0223-46F2-A623-D3D64E00839D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Interpreter", "DesignPatterns.Interpreter\DesignPatterns.Interpreter.csproj", "{B9F090C3-8B84-421D-AB0A-31B7F88821FD}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Creational.FactoryMethod", "Creational\DesignPatterns.Creational.Factory\DesignPatterns.Creational.FactoryMethod.csproj", "{B6136FB5-4C04-410A-8CC6-9BBB9FBA7118}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Creational.AbstractFactory", "Creational\DesignPatterns.Creational.AbstractFactory\DesignPatterns.Creational.AbstractFactory.csproj", "{8194BEB0-FB58-4A0A-B5D3-E0B02882E2C0}"
@@ -21,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Creational.B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Creational.Prototype", "Creational\DesignPatterns.Creational.Prototype\DesignPatterns.Creational.Prototype.csproj", "{71965034-ED9E-490F-9135-7797AB8475EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Creational.Singleton", "Creational\DesignPatterns.Creational.Singleton\DesignPatterns.Creational.Singleton.csproj", "{A54F062E-0406-400F-B7D3-5FEE89B53B35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Creational.Singleton", "Creational\DesignPatterns.Creational.Singleton\DesignPatterns.Creational.Singleton.csproj", "{A54F062E-0406-400F-B7D3-5FEE89B53B35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,10 +31,6 @@ Global
 		{AB9A02A2-3474-4230-B006-F6D3FD502132}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB9A02A2-3474-4230-B006-F6D3FD502132}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB9A02A2-3474-4230-B006-F6D3FD502132}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B9F090C3-8B84-421D-AB0A-31B7F88821FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9F090C3-8B84-421D-AB0A-31B7F88821FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9F090C3-8B84-421D-AB0A-31B7F88821FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9F090C3-8B84-421D-AB0A-31B7F88821FD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B6136FB5-4C04-410A-8CC6-9BBB9FBA7118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B6136FB5-4C04-410A-8CC6-9BBB9FBA7118}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6136FB5-4C04-410A-8CC6-9BBB9FBA7118}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -62,7 +56,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B9F090C3-8B84-421D-AB0A-31B7F88821FD} = {3DC5C8F2-0223-46F2-A623-D3D64E00839D}
 		{B6136FB5-4C04-410A-8CC6-9BBB9FBA7118} = {59458696-CB11-43F2-8309-CEACF11E91EB}
 		{8194BEB0-FB58-4A0A-B5D3-E0B02882E2C0} = {59458696-CB11-43F2-8309-CEACF11E91EB}
 		{86845D7A-6580-4213-96C3-7C72D96B9970} = {59458696-CB11-43F2-8309-CEACF11E91EB}
