@@ -20,11 +20,11 @@ Design patterns are proven solutions to recurring problems encountered in softwa
 The following design patterns will be covered in this repository:
 
 - **Creational Patterns**
-  - [Singleton](creational/singleton/README.md)
-  - [Factory Method](creational/factory_method/README.md)
-  - [Abstract Factory](creational/abstract_factory/README.md)
-  - [Builder](creational/builder/README.md)
-  - [Prototype](creational/prototype/README.md)
+  - [Singleton](Creational/DesignPatterns.Creational.Singleton/Usage.cs)
+  - [Factory](Creational/DesignPatterns.Creational.Factory/Usage.cs)
+  - [Abstract Factory](Creational/DesignPatterns.Creational.AbstractFactory/Usage.cs)
+  - [Builder](Creational/DesignPatterns.Creational.Builder/Usage.cs)
+  - [Prototype](Creational/DesignPatterns.Creational.Prototype/Usage.cs)
 
 - **Structural Patterns**
   - [Adapter](structural/adapter/README.md)
